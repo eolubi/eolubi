@@ -1,6 +1,6 @@
 ### Greetings! 👋
 
-![Oliver's Github Profile Views](https://komarev.com/ghpvc/?username=OliverCadman)
+![Emmanuel's Github Profile Views](https://komarev.com/ghpvc/?username=eolubi)
 
 
 <h1 align="center">Greetings! :v:</h1>
