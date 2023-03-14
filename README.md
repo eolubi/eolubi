@@ -16,6 +16,8 @@
 
 - :open_book: Recently graduated in Aerospace Engineering at the University of Leicester.
 
+- 🎓 Completed the Academy bootcamp as part of the April cohort
+
 - :raising_hand_man: I am eager to learn and to navigate new software languages.
 
 - :art: I am a creative problem solver!
